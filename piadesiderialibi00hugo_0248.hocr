@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./piadesiderialibi00hugo_0248.png"; bbox 0 0 1695 2886; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 414 438 1571 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 414 438 1571 2188">
+     <span class='ocr_line' id='line_1_1' title="bbox 414 438 1571 2188; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 414 438 1571 2188; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 900 150 1250 207">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 900 150 1250 207">
+     <span class='ocr_line' id='line_1_2' title="bbox 900 150 1250 207; baseline 0.011 -8"><span class='ocrx_word' id='word_1_2' title='bbox 900 150 1250 207; x_wconf 61' lang='grc' dir='ltr'><strong>,νο-[Α.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 521 2207 1166 2274">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 521 2207 1166 2274">
+     <span class='ocr_line' id='line_1_3' title="bbox 521 2207 1166 2274; baseline -0.003 -31"><span class='ocrx_word' id='word_1_3' title='bbox 521 2207 762 2259; x_wconf 38' lang='lat' dir='ltr'><em>‘que-ntorum</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 789 2211 980 2274; x_wconf 59' lang='lat' dir='ltr'><strong><em>tuarum·</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1000 2207 1107 2244; x_wconf 53' lang='lat' dir='ltr'><em>tantia</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1138 2222 1166 2244; x_wconf 87' lang='grc' dir='ltr'><em>ι,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
